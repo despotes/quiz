@@ -35,7 +35,7 @@
     question: "images/cuffie.jpg",
     correctAnswer: ['cuffie', 'headphone']
   }, {
-    question: "images/laptop.png",
+    question: "images/laptop.jpg",
     correctAnswer: ['laptop', 'computer portatile', 'portatile']
   }];
   
