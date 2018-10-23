@@ -110,7 +110,7 @@
     var header = $('<h2>Domanda ' + (index + 1) + ': <br> Come si chiama questo? </h2>');
     qElement.append(header);
     
-    var question = $('<img>', { src: questions[index].question });
+    var question = $('<img>', { src: "https://despotes.github.io/quiz/" + questions[index].question });
     question.css({width: "50%", margin: "10px auto", display: 'block' });
     qElement.append(question);
     
